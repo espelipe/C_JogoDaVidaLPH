@@ -1,5 +1,5 @@
 # Hotel em C
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaomarcosribeiretee/Hotel_LIC/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaomarcosribeiretee/JogoDaVida_LPH/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -13,6 +13,7 @@ Projeto realizado no segundo semestre do cusro de Ciencia da Computação na PUC
 
 - Joao Marcos Ribeirete Garbelini
 - Felipe Casagrande Espel
-- Andre Cavalcanti
+- Mateus Neves Eredia
+- Murilo Bonventi Romani Pinto
 
 [https://www.linkedin.com/in/joaomarcosribeirete](https://www.linkedin.com/in/joaomarcosribeirete/)
